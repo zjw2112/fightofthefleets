@@ -1,0 +1,125 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Digits Grammar file
+ */
+
+grammar digits;
+
+public <alphaone> = (alpha one);
+public <alphatwo> = (alpha two);
+public <alphathree> = (alpha three);
+public <alphafour> = (alpha four);
+public <alphafive> = (alpha five);
+public <alphasix> = (alpha six);
+public <alphaseven> = (alpha seven);
+public <alphaeight> = (alpha eight);
+public <alphanine> = (alpha nine);
+public <alphaten> = (alpha ten);
+
+public <bravoone> = (bravo one);
+public <bravotwo> = (bravo two);
+public <bravothree> = (bravo three);
+public <bravofour> = (bravo four);
+public <bravofive> = (bravo five);
+public <bravosix> = (bravo six);
+public <bravoseven> = (bravo seven);
+public <bravoeight> = (bravo eight);
+public <bravonine> = (bravo nine);
+public <bravoten> = (bravo ten);
+
+public <charlieone> = (charlie one);
+public <charlietwo> = (charlie two);
+public <charliethree> = (charlie three);
+public <charliefour> = (charlie four);
+public <charliefive> = (charlie five);
+public <charliesix> = (charlie six);
+public <charlieseven> = (charlie seven);
+public <charlieeight> = (charlie eight);
+public <charlienine> = (charlie nine);
+public <charlieten> = (charlie ten);
+
+public <deltaone> = (delta one);
+public <deltatwo> = (delta two);
+public <deltathree> = (delta three);
+public <deltafour> = (delta four);
+public <deltafive> = (delta five);
+public <deltasix> = (delta six);
+public <deltaseven> = (delta seven);
+public <deltaeight> = (delta eight);
+public <deltanine> = (delta nine);
+public <deltaten> = (delta ten);
+
+public <echoone> = (echo one);
+public <echotwo> = (echo two);
+public <echothree> = (echo three);
+public <echofour> = (echo four);
+public <echofive> = (echo five);
+public <echosix> = (echo six);
+public <echoseven> = (echo seven);
+public <echoeight> = (echo eight);
+public <echonine> = (echo nine);
+public <echoten> = (echo ten);
+
+public <foxtrotone> = (fox trot one);
+public <foxtrottwo> = (fox trot two);
+public <foxtrotthree> = (fox trot three);
+public <foxtrotfour> = (fox trot four);
+public <foxtrotfive> = (fox trot five);
+public <foxtrotsix> = (fox trot six);
+public <foxtrotseven> = (fox trot seven);
+public <foxtroteight> = (fox trot eight);
+public <foxtrotnine> = (fox trot nine);
+public <foxtrotten> = (fox trot ten);
+
+public <golfone> = (golf one);
+public <golftwo> = (golf two);
+public <golfthree> = (golf three);
+public <golffour> = (golf four);
+public <golffive> = (golf five);
+public <golfsix> = (golf six);
+public <golfseven> = (golf seven);
+public <golfeight> = (golf eight);
+public <golfnine> = (golf nine);
+public <golften> = (golf ten);
+
+public <hotelone> = (hotel one);
+public <hoteltwo> = (hotel two);
+public <hotelthree> = (hotel three);
+public <hotelfour> = (hotel four);
+public <hotelfive> = (hotel five);
+public <hotelsix> = (hotel six);
+public <hotelseven> = (hotel seven);
+public <hoteleight> = (hotel eight);
+public <hotelnine> = (hotel nine);
+public <hotelten> = (hotel ten);
+
+public <indiaone> = (india one);
+public <indiatwo> = (india two);
+public <indiathree> = (india three);
+public <indiafour> = (india four);
+public <indiafive> = (india five);
+public <indiasix> = (india six);
+public <indiaseven> = (india seven);
+public <indiaeight> = (india eight);
+public <indianine> = (india nine);
+public <indiaten> = (india ten);
+
+public <julietone> = (juliet one);
+public <juliettwo> = (juliet two);
+public <julietthree> = (juliet three);
+public <julietfour> = (juliet four);
+public <julietfive> = (juliet five);
+public <julietsix> = (juliet six);
+public <julietseven> = (juliet seven);
+public <julieteight> = (juliet eight);
+public <julietnine> = (juliet nine);
+public <julietten> = (juliet ten);
+
+
+/*public <command> = <letters> <numbers>;
+
+public <numbers> = (oh | zero | one | two | three | four | five | six | seven | eight | nine | ten )  ;
+
+public <letters> = (alpha | bravo | charlie | delta | echo | trot | golf | hotel | india | juliet )  ;
+*/
